@@ -1,15 +1,5 @@
-Syntax highlighted code block
+# Change Log
+###Version 3.0.0
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Added In-Browser in tab Cloud
+- Fix file is it's possible
