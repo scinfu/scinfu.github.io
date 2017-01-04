@@ -1,7 +1,3 @@
----
-layout: default
----
-
 Syntax highlighted code block
 
 # Header 1
