@@ -8,4 +8,4 @@
 
 ## Version 2.9.2
 
-Fix In-App
+- Fix In-App
