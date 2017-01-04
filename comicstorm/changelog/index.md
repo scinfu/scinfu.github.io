@@ -1,6 +1,8 @@
 # Change Log
 
--> This is center aligned <-
+<p align="justify">
+  Lorem ipsum
+</p>
 
 ## Version 3.0.0
 
