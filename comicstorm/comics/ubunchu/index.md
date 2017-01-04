@@ -1,4 +1,4 @@
-# Ubunchu!
+### Ubunchu!
 ![Image](ubunchu_header.jpg)
 
 **Author:** Hiroshi Seo

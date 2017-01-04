@@ -5,6 +5,7 @@
 - Added In-Browser in tab Cloud
 - Fix file if possible
 - Added Change Log
+- Getting Started
 
 ## Version 2.9.2
 
