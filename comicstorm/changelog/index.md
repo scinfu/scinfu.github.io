@@ -1,9 +1,5 @@
 # Change Log
 
-<p align="justify">
-  Lorem ipsum
-</p>
-
 ## Version 3.0.0
 
 - Added In-Browser in tab Cloud
