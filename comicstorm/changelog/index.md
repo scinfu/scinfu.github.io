@@ -1,5 +1,7 @@
 # Change Log
 
+-> This is center aligned <-
+
 ## Version 3.0.0
 
 - Added In-Browser in tab Cloud
