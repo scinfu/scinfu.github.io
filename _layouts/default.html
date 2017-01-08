@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.build_revision | relative_url }}">
   </head>
   <body>
-  {% include nav-blog.html %}
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.project_tagline }}</h2>
@@ -21,7 +20,7 @@
         <a href="{{ site.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </section>
-
+    <span class="hamburger"></span> Menu
     <section class="main-content">
       {{ content }}
 
