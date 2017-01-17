@@ -1,5 +1,12 @@
 # Change Log
 
+## Version 3.1.0
+
+- Less ADS , no fullscreen ads
+- Direction Arrow
+- Fix RTL error
+- Fix Crash Share
+
 ## Version 3.0.0
 
 - Share
