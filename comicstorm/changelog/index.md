@@ -1,5 +1,9 @@
 # Change Log
 
+## Version 3.2.0
+
+- Bug fix
+
 ## Version 3.1.0
 
 - Less ADS , no fullscreen ads
