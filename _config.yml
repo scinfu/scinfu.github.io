@@ -1,6 +1,6 @@
 # ----
 # Site
-
+theme: frisco-jekyll-template
 title: Nabil Chatbi
 url: "https//www.scinfu.com"
 baseurl:
