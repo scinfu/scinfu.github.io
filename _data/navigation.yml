@@ -1,0 +1,8 @@
+# - name: Comic Storm
+#   link: /comicstorm/
+# - name: Fertility Day
+#   link: /fertilityday/
+- name: About
+  link: /about/
+- name: Contact
+  link: /contact/

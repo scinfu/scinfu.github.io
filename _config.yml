@@ -1,9 +1,85 @@
-theme: jekyll-theme-cayman
+# ----
+# Site
+
 title: Nabil Chatbi
-description: "(a.k.a. scinfu)"
-show_downloads: false
-repository_name: repository_name
-is_project_page: false
-show_downloads: false
-wiki_url: https://github.com/github/metadata-example/wiki
-google_analytics: UA-90198941-1
+url: "https//www.scinfu.com"
+baseurl:
+google_analytics_key: UA-90198941-1
+google_maps_javascript_api_key:
+disqus_shortname: "scinfu"
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Nabil Chatbi's personal site.
+author:
+  name: Nabil Chatbi
+  email: info@scinfu.com
+  twitter: scinfu
+social:
+  name: Nabil Chatbi
+  links:
+    - http://www.scinfu.com
+
+# -----
+# Build
+
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  staff_members:
+    _hide_content: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+
+jekyll-archives:
+  enabled: ['categories']
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "contact-success.html"
+    values:
+      layout: "page"
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - Email
+  - RSS
+
+_comments:
+  description: Text shown when sharing on social media
+  blurb: Short bio or description of this person

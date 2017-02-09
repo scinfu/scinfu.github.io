@@ -1,4 +1,6 @@
+---
+layout: null
+sitemap: false
+---
 User-agent: *
-Disallow: 
-
-Sitemap: http://www.scinfu.com/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
